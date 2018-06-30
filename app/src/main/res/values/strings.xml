@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidDoge</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">发送</string>
+
+    <string-array name="welcome_tips">
+        <item>RUA！</item>
+        <item>绝了</item>
+    </string-array>
+
+</resources>
